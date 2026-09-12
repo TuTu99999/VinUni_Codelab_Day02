@@ -1,1 +1,0 @@
-# VinUni_Codelab_Day02
